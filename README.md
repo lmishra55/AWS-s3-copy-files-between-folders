@@ -1,5 +1,4 @@
 # AWS-s3-copy-files-between-folders
-this is a work in progress a the moment
 This lambda script will do the following operation
 1)Look for folder key TranLogs/Active in buckets specified.
 2)Once found it will run through the files present and split the datepart from it.Example file name :"TestDB_201912050800.trn"
